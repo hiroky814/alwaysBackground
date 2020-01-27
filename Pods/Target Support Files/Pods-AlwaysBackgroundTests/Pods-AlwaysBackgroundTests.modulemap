@@ -1,0 +1,6 @@
+framework module Pods_AlwaysBackgroundTests {
+  umbrella header "Pods-AlwaysBackgroundTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

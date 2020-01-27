@@ -1,0 +1,16 @@
+PODS:
+  - CurrentLocationTime (1.1)
+
+DEPENDENCIES:
+  - CurrentLocationTime
+
+SPEC REPOS:
+  trunk:
+    - CurrentLocationTime
+
+SPEC CHECKSUMS:
+  CurrentLocationTime: 4f5ee3da8de8023fa3d4d6b71a4aa4fe1c143657
+
+PODFILE CHECKSUM: 5b4ae7a57ecd55f2b64f3295e10efbd60ed38b63
+
+COCOAPODS: 1.9.0.beta.2

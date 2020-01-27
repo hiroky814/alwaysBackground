@@ -1,0 +1,6 @@
+framework module CurrentLocationTime {
+  umbrella header "CurrentLocationTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
